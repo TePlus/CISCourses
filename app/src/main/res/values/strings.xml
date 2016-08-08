@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CIS Courses KUCSC</string>
+    <string name="txt_courses_app">แอปพลิเคชันหลักสูตร</string>
+    <string name="txt_cis">ภาควิชาวิทยาการคอมพิวเตอร์และสารสนเทศ</string>
+    <string name="open_drawer">Open Menu</string>
+    <string name="close_drawer">Close Menu</string>
+    <string name="txt_kucsc">มหาวิทยาลัยเกษตรศาสตร์\nเฉลิมพระเกียรติ จังหวัดสกลนคร</string>
+</resources>
